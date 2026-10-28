@@ -1,0 +1,33 @@
+{
+  "alcance": "Dataset original: carga, dimensiones, rango, valores finitos y separación estratificada 80/20. Datos sintéticos: estandarización invertible, reconstrucción PCA con todas las componentes, dos grupos recuperados por k-Means y GMM, responsabilidades normalizadas y Silhouette. Se comprobó el máximo guardado de Silhouette para k-Means/PCA. No se ejecutaron entrenamientos AE/VAE, t-SNE ni el barrido completo de clustering.",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "dataset": {
+    "shape": [
+      25000,
+      784
+    ],
+    "clases": 10,
+    "por_clase": [
+      2500,
+      2500,
+      2500,
+      2500,
+      2500,
+      2500,
+      2500,
+      2500,
+      2500,
+      2500
+    ],
+    "train": 20000,
+    "evaluacion": 5000,
+    "muestra_clustering": 3000
+  },
+  "silhouette_sintetico": 0.9679644107818604,
+  "mejor_kmeans_pca_guardado": {
+    "k": 10,
+    "silhouette": 0.170191004872322
+  }
+}

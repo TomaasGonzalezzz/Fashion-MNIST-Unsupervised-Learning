@@ -1,0 +1,297 @@
+{
+  "descripcion": "Archivos originales conservados sin modificaciones. Los tres archivos de la consigna coinciden con los incluidos en la entrega, por lo que se incluyen una sola vez. El dataset CSV se distribuye como adjunto de release por su tamaño.",
+  "fuentes": [
+    {
+      "archivo": "Gonzalez_Tomas_TP4.zip",
+      "sha256": "0f5c93c8221a9894a1ace1d3fedd518832dd68d573ddd2873f0ee41d03f9290b"
+    },
+    {
+      "archivo": "Trabajo Práctico 4-20261028.zip",
+      "sha256": "7b593b03d12882f14f98e8d1985b6f0e830b240ed78fd8b297026b25a7cb8a1b"
+    }
+  ],
+  "archivos_originales": [
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/csvs/ae_history.csv",
+      "sha256": "f0c238f5e19806ff3f0b20142e31dbfa5fc3b893447a7f09ad7081fb0f00c3c8",
+      "bytes": 6911,
+      "archivo_repositorio": "csvs/ae_history.csv"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/csvs/gmm_ae_results.csv",
+      "sha256": "f1c006663060a9e88beb84829654c4c163845a294cbaa1d56152b50e7ec0a106",
+      "bytes": 755,
+      "archivo_repositorio": "csvs/gmm_ae_results.csv"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/csvs/gmm_pca_results.csv",
+      "sha256": "52d36b8d8a4b7d613f8178e7356463ccf76b2b6680fa139dde81f884f6c43f70",
+      "bytes": 779,
+      "archivo_repositorio": "csvs/gmm_pca_results.csv"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/csvs/kmeans_ae_results.csv",
+      "sha256": "5db0ad3e8139820904affe6c99c3dbfaf742d2e44701bc990a07d34590aa7663",
+      "bytes": 689,
+      "archivo_repositorio": "csvs/kmeans_ae_results.csv"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/csvs/kmeans_pca_results.csv",
+      "sha256": "86f0b1c566de2aee71878efc3a363d25fbbc4561bb8bcc9c55a84725415ac58f",
+      "bytes": 676,
+      "archivo_repositorio": "csvs/kmeans_pca_results.csv"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/csvs/tsne_history.csv",
+      "sha256": "60a743b2ea436085344dbce73bb6aadae9dcec357174d4f488744675a75261e1",
+      "bytes": 195,
+      "archivo_repositorio": "csvs/tsne_history.csv"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/csvs/vae_history.csv",
+      "sha256": "ee18b2cd1bc02467d8df39dd617d598b74b566bf6e058208c98a7ce1cbc738c5",
+      "bytes": 17125,
+      "archivo_repositorio": "csvs/vae_history.csv"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/data/fashion_mnist_subset.csv",
+      "sha256": "58120018f6f227ff1931e25875587c4d11cd2acfe0ebaccc146baf140cf422d0",
+      "bytes": 137257736,
+      "archivo_release": "fashion_mnist_subset.csv",
+      "ruta_instalacion": "data/fashion_mnist_subset.csv"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_01_muestra_aleatoria.png",
+      "sha256": "829d6ef0cdaff19bfd60133e755ef623668fd71bbb4ca998d363543b2def63cd",
+      "bytes": 57744,
+      "archivo_repositorio": "figures/figura_01_muestra_aleatoria.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_02_distribucion_clases.png",
+      "sha256": "7e00f00af9b7ccb51bb873a5499a61f4a6119c4cb35662d90b4a69cda035231e",
+      "bytes": 57401,
+      "archivo_repositorio": "figures/figura_02_distribucion_clases.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_03_muestras_por_clase.png",
+      "sha256": "52f7d438ea8d02fd0a69ef79a38ab3da3653e158784912118f97ac6c596889c0",
+      "bytes": 83923,
+      "archivo_repositorio": "figures/figura_03_muestras_por_clase.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_04_promedios_por_clase.png",
+      "sha256": "fc70cf028df5c12d229ca49370389258406816c2f16da0977f65d3e9245a5e01",
+      "bytes": 42151,
+      "archivo_repositorio": "figures/figura_04_promedios_por_clase.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_05_intensidad_por_clase.png",
+      "sha256": "8a4a9832951d82075fd542eeddaf816ea9d922fb57f56a94f5e3466ccd3f56d6",
+      "bytes": 73664,
+      "archivo_repositorio": "figures/figura_05_intensidad_por_clase.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_06_varianza_pca.png",
+      "sha256": "3f790e45fd9d47849ae16f032590431cc3c8bd89f5921b8dacfea1cb0ae7c97d",
+      "bytes": 57345,
+      "archivo_repositorio": "figures/figura_06_varianza_pca.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_07_reconstruccion_pca.png",
+      "sha256": "1e87d203f8fe5e134bb80286f383b9e004eac5be1cc9ef3439a6c05dc5ad27f8",
+      "bytes": 48842,
+      "archivo_repositorio": "figures/figura_07_reconstruccion_pca.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_08_curvas_ae.png",
+      "sha256": "ec39dd77bf261ca1ec4d27d369b94c0255daa3271a20e31a8e927228d816c934",
+      "bytes": 55044,
+      "archivo_repositorio": "figures/figura_08_curvas_ae.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_09_reconstrucciones_pca_ae.png",
+      "sha256": "a15b71658894e4478ff034c37497beabb10b4cd2c5317976b29bfa4590e6b532",
+      "bytes": 67568,
+      "archivo_repositorio": "figures/figura_09_reconstrucciones_pca_ae.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_10_curvas_vae.png",
+      "sha256": "467e7a12a3d1774015861e9ebf9811c759d1f9997a042dcddd2ab3bdccddb5cf",
+      "bytes": 111352,
+      "archivo_repositorio": "figures/figura_10_curvas_vae.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_11_reconstrucciones_pca_ae_vae.png",
+      "sha256": "a46389dd6555d7df500010c18131c85c3e2ec7c6b02d8d3004527c62ef4f2d80",
+      "bytes": 86606,
+      "archivo_repositorio": "figures/figura_11_reconstrucciones_pca_ae_vae.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_12_promedio_embeddings.png",
+      "sha256": "75ea60854eeb31d39d1529bf2b28543a9dd562e5e820b581b774f765baac3f51",
+      "bytes": 29765,
+      "archivo_repositorio": "figures/figura_12_promedio_embeddings.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_13_muestreo_normal.png",
+      "sha256": "d8e797c699c4531ffdc77bd255dd861ed547f00c67dbaa5d08fe9891a81290f3",
+      "bytes": 53595,
+      "archivo_repositorio": "figures/figura_13_muestreo_normal.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_14_kmeans_pca.png",
+      "sha256": "cb9bbba201e4f74cfb09f20ec035925f404c0e8f9bb2b5db4ef61d6670b4c115",
+      "bytes": 82353,
+      "archivo_repositorio": "figures/figura_14_kmeans_pca.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_15_kmeans_ae.png",
+      "sha256": "35613bbf5914fa0e33e0ea336035bb7fce78b993a12033045c36f0cb4bad2893",
+      "bytes": 93821,
+      "archivo_repositorio": "figures/figura_15_kmeans_ae.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_16_gmm_pca.png",
+      "sha256": "40186ebf04d693c6f14bb886d74a3ae5b95ce9e98c64c97c3ff085d164dbf0fe",
+      "bytes": 92578,
+      "archivo_repositorio": "figures/figura_16_gmm_pca.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_17_gmm_ae.png",
+      "sha256": "0818aacc2f672095fb52e46b5144c21c17875b1ff7066de350d9d5d7748df6dd",
+      "bytes": 89182,
+      "archivo_repositorio": "figures/figura_17_gmm_ae.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_18_tsne_clusters.png",
+      "sha256": "4ca87c16e001edc7ace6ab8518f48eb8d4d79a05dab76c7be4f2265946833efb",
+      "bytes": 316575,
+      "archivo_repositorio": "figures/figura_18_tsne_clusters.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_19_tsne_clases_reales.png",
+      "sha256": "c8b2a4d7063eb4ee5e7602f581645956ae1e64599616a86913a821ff941e2a72",
+      "bytes": 336637,
+      "archivo_repositorio": "figures/figura_19_tsne_clases_reales.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_20_tamanio_clusters.png",
+      "sha256": "4c0010f489c8161708c58d98aeaa64b9319109f0eba6bc41ac7f009b4f6b691f",
+      "bytes": 35132,
+      "archivo_repositorio": "figures/figura_20_tamanio_clusters.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/figures/figura_21_composicion_clusters.png",
+      "sha256": "69e455ed169fdc34cf99cf0477478d2bb6a098b8c65b8a06bcfa20d31c22db31",
+      "bytes": 73499,
+      "archivo_repositorio": "figures/figura_21_composicion_clusters.png"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/Gonzalez_Tomas_Informe_TP4.pdf",
+      "sha256": "8dce6af8baf4a62c82ae9d67027bfd333a08933642ed9497d83532034d3b30cf",
+      "bytes": 1688835,
+      "archivo_repositorio": "Gonzalez_Tomas_Informe_TP4.pdf"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/Gonzalez_Tomas_Notebook_TP4.ipynb",
+      "sha256": "140527b70c3ac41ab7d9f4b6fd17fa666fc691a4c74c233e00dc807e9c2c26e6",
+      "bytes": 1967012,
+      "archivo_repositorio": "Gonzalez_Tomas_Notebook_TP4.ipynb"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/src/tp4_clustering.py",
+      "sha256": "bf4dc5921a0172cbe13b144f965f4f99d13d33e2ed074a0b667d67dc73d3b5b2",
+      "bytes": 7509,
+      "archivo_repositorio": "src/tp4_clustering.py"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/src/tp4_data.py",
+      "sha256": "9acca2dc52506ffc5df0e864b1be58f44c70ce7e2805b3a6e81f6a32a9b9bf2b",
+      "bytes": 1705,
+      "archivo_repositorio": "src/tp4_data.py"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/src/tp4_linear.py",
+      "sha256": "ac648019ccd810b9f736a5a4b4ee03bf44fd39136e44f086d17765c0f37624e5",
+      "bytes": 2227,
+      "archivo_repositorio": "src/tp4_linear.py"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/src/tp4_plots.py",
+      "sha256": "da243fbbabc5c1b22ce877fc1a582f00d91ed1a1473e862ddf9b7cf045c71c88",
+      "bytes": 9156,
+      "archivo_repositorio": "src/tp4_plots.py"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/src/tp4_torch_models.py",
+      "sha256": "65705869ce92a3ec681e7f55f50603165a5beda63241a24c61e0f74a4dffea48",
+      "bytes": 2230,
+      "archivo_repositorio": "src/tp4_torch_models.py"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/src/tp4_torch_train.py",
+      "sha256": "adcf5c385ab2a3654c6c82ae2d2e0e8253254a15f9b8d9335908bf5c75152edb",
+      "bytes": 6214,
+      "archivo_repositorio": "src/tp4_torch_train.py"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/src/tp4_tsne.py",
+      "sha256": "6f01219ef2e93dfc4df2e5936f593ad807cf5e5847ee669923a0f010900bb355",
+      "bytes": 2565,
+      "archivo_repositorio": "src/tp4_tsne.py"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/template_informe.tex",
+      "sha256": "0b244da25dec7cf7c7920e26c72457896aaebee03c2f837ec37c21ca6cfa934e",
+      "bytes": 2928,
+      "archivo_repositorio": "template_informe.tex"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP4.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP4/TP4_I302_1er_semestre_2026.pdf",
+      "sha256": "4c95941f017e70b6d887fa7905c3179ef9c64a10501c44f823e6382321c4c065",
+      "bytes": 331019,
+      "archivo_repositorio": "TP4_I302_1er_semestre_2026.pdf"
+    }
+  ],
+  "dataset_url": "https://github.com/TomaasGonzalezzz/i302-tp4-aprendizaje-no-supervisado/releases/download/tp4-dataset-2026/fashion_mnist_subset.csv"
+}

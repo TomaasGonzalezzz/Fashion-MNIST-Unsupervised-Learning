@@ -1,0 +1,8 @@
+# Dependencias identificadas en la entrega; versiones originales no registradas.
+numpy
+pandas
+matplotlib
+seaborn
+torch
+ipykernel
+notebook

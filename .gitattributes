@@ -1,0 +1,9 @@
+src/** -text
+csvs/** -text
+*.ipynb -text
+*.tex -text
+*.pdf binary
+*.png binary
+README.md text eol=lf
+requirements.txt text eol=lf
+docs/*.json text eol=lf
