@@ -7,6 +7,8 @@
 
 [Informe](Gonzalez_Tomas_Informe_TP4.pdf) · [Notebook](Gonzalez_Tomas_Notebook_TP4.ipynb)
 
+**Resultado:** sin ver ninguna etiqueta, k-Means encontró grupos con sentido: bolsos y botas por un lado, prendas de arriba por otro.
+
 ![Proyección t-SNE coloreada por la clase real](figures/figura_19_tsne_clases_reales.png)
 
 ## Recorrido
@@ -40,6 +42,10 @@ Recién acá entran las etiquetas. Los bolsos y las botas forman grupos claros, 
 ![Composición de cada cluster según la clase real](figures/figura_21_composicion_clusters.png)
 
 Silhouette de 0,1702 y pureza externa ponderada de 0,5207. La pureza mide cuánto coincide cada cluster con una clase; no equivale a la accuracy de un clasificador.
+
+## Conclusión
+
+Gran parte de la estructura de las imágenes se puede recuperar sin etiquetas, sobre todo cuando la forma de los objetos es bien distinta. Lo que cuesta separar son las prendas parecidas, algo que también se ve en la proyección t-SNE. Y la configuración elegida terminó siendo la más simple: k-Means sobre PCA. Las redes aportaron otra cosa, como la capacidad del β-VAE para generar prendas nuevas.
 
 ## Ejecutar
 
